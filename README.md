@@ -14,9 +14,6 @@ Designed an IoT-based system to control home appliances remotely using NodeMCU (
 - Real-time monitoring
 - Wireless communication
 
-## 📷 System Diagram
-![Diagram](iot.png)
-
 ## 🚀 Applications
 - Smart Homes
 - Energy Management
